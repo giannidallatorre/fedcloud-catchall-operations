@@ -172,6 +172,8 @@ vos:
     auth: "{{ fedcloud_sa }}"
   vo.policycloud.eu:
     auth: "{{ fedcloud_sa }}"
+  vo.projectescape.eu:
+    auth: "{{ fedcloud_sa }}"
   vo.sbg.in2p3.fr:
   vo.stars4all.eu:
     auth: "{{ fedcloud_sa }}"
